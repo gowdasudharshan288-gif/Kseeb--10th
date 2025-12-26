@@ -1,5 +1,16 @@
 const questions = [
   {
+    q: "हिंदी दिवस कब मनाया जाता है?",
+    options: ["14 सितंबर", "15 अगस्त", "26 जनवरी", "2 अक्टूबर"],
+    answer: 0
+  },
+  {
+    q: "कबीर किसके भक्त थे?",
+    options: ["राम", "कृष्ण", "शिव", "दुर्गा"],
+    answer: 0
+  },
+];const questions = [
+  {
     q: "Who wrote 'Romeo and Juliet'?",
     options: ["Wordsworth", "Shakespeare", "Milton", "Keats"],
     answer: 1
