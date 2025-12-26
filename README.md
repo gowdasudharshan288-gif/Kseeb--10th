@@ -1,4 +1,48 @@
-<!DOCTYPE html>
+const quizData = [
+  {
+    question: "Value of π (pi) is?",
+    a: "2.14",
+    b: "3.14",
+    c: "4.14",
+    d: "3.41",
+    correct: "b"
+  },
+  {
+    question: "Formula of Area of Circle?",
+    a: "2πr",
+    b: "πr²",
+    c: "r²",
+    d: "πd",
+    correct: "b"
+  }
+];
+
+let index = 0;
+
+function loadQuiz() {
+  const q = quizData[index];
+  document.getElementById("question").innerText = q.question;
+  document.getElementById("a").innerText = q.a;
+  document.getElementById("b").innerText = q.b;
+  document.getElementById("c").innerText = q.c;
+  document.getElementById("d").innerText = q.d;
+}
+
+function checkAnswer(ans) {
+  if (ans === quizData[index].correct) {
+    document.getElementById("result").innerText = "Correct ✅";
+  } else {
+    document.getElementById("result").innerText = "Wrong ❌";
+  }
+  index++;
+  if (index < quizData.length) {
+    loadQuiz();
+  } else {
+    document.getElementById("result").innerText += " | Quiz Finished 🎉";
+  }
+}
+
+loadQuiz();<!DOCTYPE html>
 <html>
 <head>
   <title>KSEEB Quiz</title>
