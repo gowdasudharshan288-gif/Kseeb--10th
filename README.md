@@ -1,6 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>KSEEB Hindi Question Papers</title>
+</head>
+<body>
+
+<h2>Hindi – Previous Year Question Papers</h2>
+
+<h3>2023</h3>
+<ul>
+  <li>Question Paper: <a href="#">Download PDF</a></li>
+  <li>Answer Key: <a href="#">Download Answers</a></li>
+</ul>
+
+<h3>2022</h3>
+<ul>
+  <li>Question Paper: <a href="#">Download PDF</a></li>
+  <li>Answer Key: <a href="#">Download Answers</a></li>
+</ul>
+
+<a href="index.html">⬅ Back to Home</a>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
   <title>KSEEB English Question Papers</title>
 </head>
 <body>
