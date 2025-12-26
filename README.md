@@ -1,3 +1,5 @@
+index.html (copy everything between the dashed lines)
+<!doctype html>
 Go to: https://github.com/gowdasudharshan288-gif/Kseeb--10th
 index.html</body>
 https://gowdasudharshan288-gif.github.io/Kseeb--10th/
