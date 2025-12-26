@@ -1,5 +1,16 @@
 const questions = [
   {
+    q: "Capital of Karnataka?",
+    options: ["Mysuru", "Hubli", "Bengaluru", "Mangaluru"],
+    answer: 2
+  },
+  {
+    q: "Father of Indian Constitution?",
+    options: ["Gandhi", "Nehru", "Ambedkar", "Patel"],
+    answer: 2
+  },
+];const questions = [
+  {
     q: "Chemical formula of water?",
     options: ["H2O", "CO2", "O2", "H2"],
     answer: 0
