@@ -1,4 +1,32 @@
-<!DOCTYPE html>
+let current = 0;
+let score = 0;
+
+const params = new URLSearchParams(window.location.search);
+const subject = params.get("subject");
+
+document.getElementById("dataScript").src = "data/" + subject + ".js";
+
+function loadQuiz() {
+  if (current >= questions.length) {
+    document.getElementById("quiz-box").innerHTML =
+      `<h3>Quiz Finished 🎉</h3><p>Score: ${score}/30</p>`;
+    return;
+  }
+
+  document.getElementById("title").innerText = subject.toUpperCase() + " QUIZ";
+  document.getElementById("question").innerText = questions[current].q;
+
+  questions[current].options.forEach((opt, i) => {
+    document.getElementById("opt" + i).innerText = opt;
+  });
+}
+
+function checkAnswer(choice) {
+  if (choice === questions[current].answer) score++;
+  current++;
+  document.getElementById("score").innerText = "Score: " + score;
+  loadQuiz();
+}<!DOCTYPE html>
 <html>
 <head>
   <title>Quiz</title>
