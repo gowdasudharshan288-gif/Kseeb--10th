@@ -1,4 +1,21 @@
-body {
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KSEEB 10th Previous Year Papers</title>
+</head>
+<body>
+
+<h1>KSEEB 10th Class</h1>
+<p>Previous Year Question Papers with Answers</p>
+
+<ul>
+  <li><a href="kannada.html">Kannada</a></li>
+  <li><a href="english.html">English</a></li>
+  <li><a href="hindi.html">Hindi</a></li>
+</ul>
+
+</body>
+</html>body {
   font-family: Arial;
   background: #f2f7ff;
   padding: 20px;
