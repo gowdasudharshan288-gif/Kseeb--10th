@@ -1,4 +1,15 @@
-let current = 0;
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f2f6ff;
+}
+
+button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+}let current = 0;
 let score = 0;
 
 const params = new URLSearchParams(window.location.search);
