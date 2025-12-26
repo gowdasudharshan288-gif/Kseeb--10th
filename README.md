@@ -1,5 +1,16 @@
 const questions = [
   {
+    q: "Chemical formula of water?",
+    options: ["H2O", "CO2", "O2", "H2"],
+    answer: 0
+  },
+  {
+    q: "Unit of force?",
+    options: ["Joule", "Newton", "Watt", "Pascal"],
+    answer: 1
+  },
+];const questions = [
+  {
     q: "Value of π?",
     options: ["2.14", "3.14", "4.14", "3.41"],
     answer: 1
