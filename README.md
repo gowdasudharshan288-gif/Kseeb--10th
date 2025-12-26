@@ -1,6 +1,31 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2 id="title"></h2>
+
+<div id="quiz-box">
+  <p id="question"></p>
+
+  <button onclick="checkAnswer(0)" id="opt0"></button>
+  <button onclick="checkAnswer(1)" id="opt1"></button>
+  <button onclick="checkAnswer(2)" id="opt2"></button>
+  <button onclick="checkAnswer(3)" id="opt3"></button>
+</div>
+
+<p id="score"></p>
+
+<script src="quiz.js"></script>
+<script src="" id="dataScript"></script>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
   <title>KSEEB 10th Quiz</title>
 </head>
 <body>
