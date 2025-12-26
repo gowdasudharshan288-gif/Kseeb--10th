@@ -1,4 +1,4 @@
-<indexhtml>
+indexhtml
 titlekannada: [
   { q: "...", o: [...], a: 0 },
 ],kannada: [
