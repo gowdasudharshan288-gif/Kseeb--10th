@@ -1,4 +1,29 @@
-const quizData = [
+body {
+  font-family: Arial;
+  background: #f2f7ff;
+  padding: 20px;
+}
+
+header {
+  background: #004aad;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: #004aad;
+  font-weight: bold;
+}
+
+button {
+  display: block;
+  margin: 5px;
+  padding: 10px;
+  width: 200px;
+}const quizData = [
   {
     question: "Value of π (pi) is?",
     a: "2.14",
