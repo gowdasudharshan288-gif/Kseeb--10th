@@ -1,4 +1,6 @@
-index.html</body>
+kannada: [
+  { q: "...", o: [...], a: 0 },
+],index.html</body>
 https://gowdasudharshan288-gif.github.io/Kseeb--10th/
 </html></body>
 </html>index.html<!DOCTYPE html>
