@@ -1,4 +1,23 @@
-index.html<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KSEEB 10th Quiz</title>
+</head>
+<body>
+
+<h1>KSEEB 10th – Subject Quizzes</h1>
+
+<ul>
+  <li><a href="quiz.html?subject=kannada">Kannada Quiz</a></li>
+  <li><a href="quiz.html?subject=english">English Quiz</a></li>
+  <li><a href="quiz.html?subject=hindi">Hindi Quiz</a></li>
+  <li><a href="quiz.html?subject=maths">Maths Quiz</a></li>
+  <li><a href="quiz.html?subject=science">Science Quiz</a></li>
+  <li><a href="quiz.html?subject=social">Social Science Quiz</a></li>
+</ul>
+
+</body>
+</html>index.html<!DOCTYPE html>
 <html>
 <head>
   <title>KSEEB Hindi Question Papers</title>
