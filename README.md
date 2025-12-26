@@ -1,6 +1,34 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Previous Year Question Papers</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Previous Year Question Papers (KSEEB 10th)</h2>
+
+<ul>
+  <li>
+    Mathematics 2023 –
+    <a href="https://kseeb.karnataka.gov.in" target="_blank">Download PDF</a>
+  </li>
+  <li>
+    Science 2023 –
+    <a href="https://kseeb.karnataka.gov.in" target="_blank">Download PDF</a>
+  </li>
+  <li>
+    Social Science 2022 –
+    <a href="https://kseeb.karnataka.gov.in" target="_blank">Download PDF</a>
+  </li>
+</ul>
+
+<p>👉 Replace links with real PDF links when available.</p>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
   <title>KSEEB Quiz</title>
 </head>
 <body>
