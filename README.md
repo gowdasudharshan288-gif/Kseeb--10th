@@ -1,6 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>KSEEB Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Maths Quiz – Class 10</h2>
+
+<div id="quiz">
+  <p id="question"></p>
+  <button onclick="checkAnswer('a')" id="a"></button>
+  <button onclick="checkAnswer('b')" id="b"></button>
+  <button onclick="checkAnswer('c')" id="c"></button>
+  <button onclick="checkAnswer('d')" id="d"></button>
+</div>
+
+<p id="result"></p>
+
+<script src="quiz.js"></script>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
   <title>Previous Year Question Papers</title>
   <link rel="stylesheet" href="style.css">
 </head>
