@@ -1,5 +1,17 @@
 const questions = [
   {
+    q: "Who wrote 'Romeo and Juliet'?",
+    options: ["Wordsworth", "Shakespeare", "Milton", "Keats"],
+    answer: 1
+  },
+  {
+    q: "Synonym of 'Happy'?",
+    options: ["Sad", "Angry", "Joyful", "Weak"],
+    answer: 2
+  },
+  // add till 30
+];const questions = [
+  {
     q: "ಕನ್ನಡದ ಆದಿಕವಿ ಯಾರು?",
     options: ["ಪಂಪ", "ರನ್ನ", "ಜನ್ನ", "ಕುಮಾರವ್ಯಾಸ"],
     answer: 0
