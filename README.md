@@ -1,6 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>KSEEB Quiz</title>
+</head>
+<body>
+
+<h2>Maths Quiz</h2>
+
+<p>1. Value of π?</p>
+<p>A) 3.14</p>
+<p>B) 2.14</p>
+<p>C) 4.14</p>
+
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
   <title>KSEEB Question Papers</title>
 </head>
 <body>
