@@ -1,5 +1,16 @@
 const questions = [
   {
+    q: "Value of π?",
+    options: ["2.14", "3.14", "4.14", "3.41"],
+    answer: 1
+  },
+  {
+    q: "Area of circle formula?",
+    options: ["πr²", "2πr", "r²", "πd"],
+    answer: 0
+  },
+];const questions = [
+  {
     q: "हिंदी दिवस कब मनाया जाता है?",
     options: ["14 सितंबर", "15 अगस्त", "26 जनवरी", "2 अक्टूबर"],
     answer: 0
