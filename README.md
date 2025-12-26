@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+index.html<!DOCTYPE html>
 <html>
 <head>
   <title>KSEEB Hindi Question Papers</title>
